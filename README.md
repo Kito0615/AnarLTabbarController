@@ -17,7 +17,7 @@
 
 4.Then you can use this `AnarLTabbarController`. Enjoy it.
 
-If any questions you have, please contact me[anar0615@sina.com](mailto:anar0615@sina.com). Or on my [Weibo](http://weibo.com/409498119).
+If any questions you have, please e-mail me:[anar0615@sina.com](mailto:anar0615@sina.com). Or on my [Weibo](http://weibo.com/409498119).
 
 
 ## 中文说明
