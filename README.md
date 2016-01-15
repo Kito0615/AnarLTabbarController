@@ -22,7 +22,7 @@
 If any questions you have, please e-mail me:[anar0615@sina.com](mailto:anar0615@sina.com). Or on my [Weibo](http://weibo.com/409498119).
 
 ####Example
-[Example]:/Users/58583c/Desktop/testoutput/Example.gif
+![](https://github.com/Kito0615/AnarLTabbarController/Example.gif)  
 
 ## 中文说明
 
@@ -45,9 +45,6 @@ If any questions you have, please e-mail me:[anar0615@sina.com](mailto:anar0615@
 ####如果有任何疑问或bug，请联系我邮箱：[anar0615@sina.com](mailto:anar0615@sina.com). 或者在[微博](http://weibo.com/409498119)上私信我.
 
 ####示例
-[Example]:/Users/58583c/Desktop/testoutput/Example.gif
+![](https://github.com/Kito0615/AnarLTabbarController/Example.gif)
 
 ####感谢你的关注！
-
-
-
