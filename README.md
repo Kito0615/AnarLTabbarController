@@ -19,7 +19,7 @@
 
 4.Then you can use this `AnarLTabbarController`. Enjoy it.
 
-If any questions you have, please e-mail me:[anar0615@sina.com](mailto:anar0615@sina.com). Or on my [Weibo](http://weibo.com/409498119).
+If any questions you have, please e-mail me:[anar0615@sina.com](mailto:anar0615@sina.com "Mail to me."). Or on my [Weibo](http://weibo.com/409498119 "Message to me").
 
 ####Example
 ![](https://github.com/Kito0615/AnarLTabbarController/raw/master/Example.gif)  
@@ -42,7 +42,7 @@ If any questions you have, please e-mail me:[anar0615@sina.com](mailto:anar0615@
 
 4.接着，你就可以使用了。
 
-####如果有任何疑问或bug，请联系我邮箱：[anar0615@sina.com](mailto:anar0615@sina.com). 或者在[微博](http://weibo.com/409498119)上私信我.
+####如果有任何疑问或bug，请联系我邮箱：[anar0615@sina.com](mailto:anar0615@sina.com "发送邮件"). 或者在[微博](http://weibo.com/409498119 "私信给我")上私信我.
 
 ####示例
 ![](https://github.com/Kito0615/AnarLTabbarController/raw/master/Example.gif)
