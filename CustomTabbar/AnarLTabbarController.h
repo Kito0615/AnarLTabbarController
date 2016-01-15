@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AnarLTabbarController.h
 //  CustomTabbar
 //
 //  Created by AnarL on 1/14/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AnarLTabbarController : UITabBarController
 
 @end
-
