@@ -16,7 +16,6 @@
 `- (instancetype)initWithControllers:(NSArray<UIViewController *> *)controllers titles:(NSArray<NSString *> *)titles defaultImages:(NSArray<NSString *> *)images highLightedImages:(NSArray<NSString *> *)highlightedImages barTintColor:(UIColor *)tintColor barBackgroundColor:(UIColor *)backgroundColor;`
 
 4.Then you can use this `AnarLTabbarController`. Enjoy it.
->>>>>>> d3eb0269d30744861add26767b997fc9509e6394
 
 If any questions you have, please contact me[anar0615@sina.com](mailto:anar0615@sina.com). Or on my [Weibo](http://weibo.com/409498119).
 
@@ -34,7 +33,6 @@ If any questions you have, please contact me[anar0615@sina.com](mailto:anar0615@
 3.在`ViewController.m` 或 `AppDelegate.m` 文件中使用以下方法创建`AnarLTabbarController`对象:
 
 `- (instancetype)initWithControllers:(NSArray<UIViewController *> *)controllers titles:(NSArray<NSString *> *)titles defaultImages:(NSArray<NSString *> *)images highLightedImages:(NSArray<NSString *> *)highlightedImages barTintColor:(UIColor *)tintColor barBackgroundColor:(UIColor *)backgroundColor;`
->>>>>>> d3eb0269d30744861add26767b997fc9509e6394
 
 4.接着，你就可以使用了。
 
