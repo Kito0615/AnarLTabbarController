@@ -1,7 +1,5 @@
 #AnarLTabbarController
 
-=========================================
-
 ## English Introduction
 
 ####This is a quick way to creat custom tabbar.
