@@ -6,16 +6,6 @@
 
 #####Usage:
 
-<<<<<<< HEAD
-######1.Import `AnarLTabbarController.h` into `YourProject`
-
-######2.Create these arguments `TabbarControllersArray`, `TabbarTitlesArray`, `TabbarDefaultImageNamesArray`, `TabbarHighlightedImageNamesArray`, `TabbarTintColor`, `TabbarBackgroundColor`. Also, these arguments can be nil excpet `TabbarControllersArray`
-
-######3.Create `AnarLTabbarController` in `YourViewController.m` or `YourAppDelegate.m` use this method:
-
-######`- (instancetype)initWithControllers:(NSArray<UIViewController *> *)controllers titles:(NSArray<NSString *> *)titles defaultImages:(NSArray<NSString *> *)images highLightedImages:(NSArray<NSString *> *)highlightedImages barTintColor:(UIColor *)tintColor barBackgroundColor:(UIColor *)backgroundColor;`
-
-######4.Then you can use this `AnarLTabbarController`. Enjoy it.
 =======
 1.Import `AnarLTabbarController.h` into `YourProject`
 
@@ -37,15 +27,6 @@ If any questions you have, please contact me[anar0615@sina.com](mailto:anar0615@
 
 #####使用方法：
 
-<<<<<<< HEAD
-######1.在`你的工程`中导入`AnarLTabbarController.h`文件
-
-######2.创建以下参数:`TabbarControllersArray`, `TabbarTitlesArray`, `TabbarDefaultImageNamesArray`, `TabbarHighlightedImageNamesArray`, `TabbarTintColor`, `TabbarBackgroundColor`. 当然，除了 `TabbarControllersArray`参数以外，其他参数可以传nil。
-
-######3.在`ViewController.m` 或 `AppDelegate.m` 文件中使用以下方法创建`AnarLTabbarController`对象:
-
-######`- (instancetype)initWithControllers:(NSArray<UIViewController *> *)controllers titles:(NSArray<NSString *> *)titles defaultImages:(NSArray<NSString *> *)images highLightedImages:(NSArray<NSString *> *)highlightedImages barTintColor:(UIColor *)tintColor barBackgroundColor:(UIColor *)backgroundColor;`
-=======
 1.在`你的工程`中导入`AnarLTabbarController.h`文件
 
 2.创建以下参数:`TabbarControllersArray`, `TabbarTitlesArray`, `TabbarDefaultImageNamesArray`, `TabbarHighlightedImageNamesArray`, `TabbarTintColor`, `TabbarBackgroundColor`. 当然，除了 `TabbarControllersArray`参数以外，其他参数可以传nil。
