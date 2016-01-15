@@ -7,8 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AnarLTabbarController.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
+{
+    AnarLTabbarController * _tabbarController;
+}
 
 @property (strong, nonatomic) UIWindow *window;
 

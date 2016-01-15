@@ -6,6 +6,7 @@
 //  Copyright © 2016 AnarL. All rights reserved.
 //
 
+#define COLOR_WITH_RGB(r, g, b) [UIColor colorWithRed:(r/255.0) green:(g/255.0) blue:(b/255.0) alpha:1]
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
@@ -17,6 +18,35 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    _window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    
+    NSMutableArray * controllers = [[NSMutableArray alloc] init];
+    NSMutableArray * titles = [[NSMutableArray alloc] init];
+    NSMutableArray * defaultImages = [[NSMutableArray alloc] init];
+    NSMutableArray * highlightedImages = [[NSMutableArray alloc] init];
+    
+    
+    for (int i = 0; i < 4; i ++) {
+        
+        UIViewController * controller = [[UIViewController alloc] init];
+        controller.view.backgroundColor = COLOR_WITH_RGB(arc4random()%255, arc4random()%255, arc4random()%255);
+        [controllers addObject:controller];
+        NSString * title = [NSString stringWithFormat:@"Tabbar%d", i];
+        [titles addObject:title];
+        NSString * defaultTabbar = [NSString stringWithFormat:@"tabbar%d",i];
+        [defaultImages addObject:defaultTabbar];
+        NSString * highlightTabbar = [NSString stringWithFormat:@"tabbar%d.png", i];
+        [highlightedImages addObject:highlightTabbar];
+        
+    }
+    
+    _tabbarController = [[AnarLTabbarController alloc] initWithControllers:controllers titles:titles defaultImages:defaultImages highLightedImages:highlightedImages barTintColor:[UIColor greenColor] barBackgroundColor:[UIColor grayColor]];
+    _window.rootViewController = _tabbarController;
+    
+    _window.backgroundColor = [UIColor whiteColor];
+    [_window makeKeyAndVisible];
+    
     return YES;
 }
 
