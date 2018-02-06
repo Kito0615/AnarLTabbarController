@@ -1,10 +1,10 @@
-#AnarLTabbarController
+# AnarLTabbarController
 
 ## English Introduction
 
-####This is a quick way to creat custom tabbar.
+#### This is a quick way to creat custom tabbar.
 
-#####Usage:
+##### Usage:
 
 =======
 1.Import `AnarLTabbarController.h` into `YourProject`
@@ -21,14 +21,14 @@
 
 If any questions you have, please e-mail me:[anar0615@sina.com](mailto:anar0615@sina.com "Mail to me."). Or on my [Weibo](http://weibo.com/409498119 "Message to me").
 
-####Example
+#### Example
 ![](https://github.com/Kito0615/AnarLTabbarController/raw/master/Example.gif)  
 
 ## 中文说明
 
-####通过本类可以快速创建选项栏
+#### 通过本类可以快速创建选项栏
 
-#####使用方法：
+##### 使用方法：
 
 1.在`你的工程`中导入`AnarLTabbarController.h`文件
 
@@ -42,9 +42,9 @@ If any questions you have, please e-mail me:[anar0615@sina.com](mailto:anar0615@
 
 4.接着，你就可以使用了。
 
-####如果有任何疑问或bug，请联系我邮箱：[anar0615@sina.com](mailto:anar0615@sina.com "发送邮件"). 或者在[微博](http://weibo.com/409498119 "私信给我")上私信我.
+#### 如果有任何疑问或bug，请联系我邮箱：[anar0615@sina.com](mailto:anar0615@sina.com "发送邮件"). 或者在[微博](http://weibo.com/409498119 "私信给我")上私信我.
 
-####示例
+#### 示例
 ![](https://github.com/Kito0615/AnarLTabbarController/raw/master/Example.gif)
 
-####感谢你的关注！
+感谢你的关注！
